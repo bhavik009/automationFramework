@@ -1,0 +1,56 @@
+2018-08-08 11:08:88 INFO  TestBase:64 - Initializing Web Driver: 247644034
+2018-08-08 11:08:100 INFO  WaitHelper:26 - WaitHelper object created..
+2018-08-08 11:08:100 INFO  WaitHelper:36 - Implicit Wait has been set to: 30 Seconds
+2018-08-08 11:08:107 INFO  WaitHelper:178 - waiting for page to load for : 30 seconds
+2018-08-08 11:08:109 INFO  WaitHelper:180 - Page is loaded.
+2018-08-08 11:08:281 INFO  TestBase:102 - ************* f => Test Started ****************
+2018-08-08 11:08:202 INFO  TestBase:204 - Screenshot taken
+2018-08-08 11:08:205 INFO  TestBase:123 - **************fFinished***************
+2018-08-08 11:08:309 INFO  TestBase:64 - Initializing Web Driver: 247644034
+2018-08-08 11:08:309 INFO  WaitHelper:26 - WaitHelper object created..
+2018-08-08 11:08:320 INFO  WaitHelper:36 - Implicit Wait has been set to: 30 Seconds
+2018-08-08 11:08:337 INFO  WaitHelper:178 - waiting for page to load for : 30 seconds
+2018-08-08 11:08:353 INFO  WaitHelper:180 - Page is loaded.
+2018-08-08 11:08:516 INFO  TestBase:102 - ************* f => Test Started ****************
+2018-08-08 11:08:803 INFO  TestBase:205 - Screenshot taken
+2018-08-08 11:08:810 INFO  TestBase:123 - **************fFinished***************
+2018-08-08 11:08:225 INFO  TestBase:64 - Initializing Web Driver: 247644034
+2018-08-08 11:08:238 INFO  WaitHelper:26 - WaitHelper object created..
+2018-08-08 11:08:238 INFO  WaitHelper:36 - Implicit Wait has been set to: 30 Seconds
+2018-08-08 11:08:255 INFO  WaitHelper:178 - waiting for page to load for : 30 seconds
+2018-08-08 11:08:271 INFO  WaitHelper:180 - Page is loaded.
+2018-08-08 11:08:448 INFO  TestBase:102 - ************* f => Test Started ****************
+2018-08-08 11:08:734 INFO  TestBase:205 - Screenshot taken
+2018-08-08 11:08:747 INFO  TestBase:123 - **************fFinished***************
+2018-08-08 11:08:477 INFO  ExtentListener:31 - Test Class Started..
+2018-08-08 11:08:837 INFO  TestBase:64 - Initializing Web Driver: 1037942373
+2018-08-08 11:08:839 INFO  WaitHelper:26 - WaitHelper object created..
+2018-08-08 11:08:839 INFO  WaitHelper:36 - Implicit Wait has been set to: 30 Seconds
+2018-08-08 11:08:847 INFO  WaitHelper:178 - waiting for page to load for : 30 seconds
+2018-08-08 11:08:851 INFO  WaitHelper:180 - Page is loaded.
+2018-08-08 11:08:994 INFO  TestBase:102 - ************* f => Test Started ****************
+2018-08-08 11:08:999 INFO  ExtentListener:54 - f Test Started..
+2018-08-08 11:08:109 INFO  TestBase:207 - Screenshot taken
+2018-08-08 11:08:116 INFO  ExtentListener:60 - f Test Passed..
+2018-08-08 11:08:118 INFO  TestBase:123 - **************f - Finished***************
+2018-08-08 11:08:95 INFO  ExtentListener:23 - Test Test Finished..
+2018-08-08 13:08:279 INFO  ReportListener:31 - Test Class Started..
+2018-08-08 13:08:539 INFO  TestBase:64 - Initializing Web Driver: 1037942373
+2018-08-08 13:08:541 INFO  WaitHelper:26 - WaitHelper object created..
+2018-08-08 13:08:541 INFO  WaitHelper:36 - Implicit Wait has been set to: 30 Seconds
+2018-08-08 13:08:546 INFO  WaitHelper:178 - waiting for page to load for : 30 seconds
+2018-08-08 13:08:548 INFO  WaitHelper:180 - Page is loaded.
+2018-08-08 13:08:696 INFO  TestBase:102 - ************* f => Test Started ****************
+2018-08-08 13:08:700 INFO  ReportListener:54 - f Test Started..
+2018-08-08 13:08:336 INFO  TestBase:207 - Screenshot taken
+2018-08-08 13:08:339 INFO  ReportListener:60 - f Test Passed..
+2018-08-08 13:08:340 INFO  TestBase:123 - **************f - Finished***************
+2018-08-08 13:08:269 INFO  ReportListener:23 - Test Test Finished..
+2018-08-08 14:08:804 INFO  TestBase:64 - Initializing Web Driver: 422522663
+2018-08-08 14:08:826 INFO  WaitHelper:26 - WaitHelper object created..
+2018-08-08 14:08:826 INFO  WaitHelper:36 - Implicit Wait has been set to: 30 Seconds
+2018-08-08 14:08:841 INFO  WaitHelper:178 - waiting for page to load for : 30 seconds
+2018-08-08 14:08:844 INFO  WaitHelper:180 - Page is loaded.
+2018-08-08 14:08:23 INFO  TestBase:102 - ************* f => Test Started ****************
+2018-08-08 14:08:754 INFO  TestBase:206 - Screenshot taken
+2018-08-08 14:08:756 INFO  TestBase:123 - **************f - Finished***************

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+	<listeners>
+		<!-- <listener class-name="com.automation.helper.listener.RetryListener"></listener> -->
+		<listener
+			class-name="com.automation.helper.listener.ReportListener">
+		</listener>
+	</listeners>
+	
+	<test thread-count="5" name="Test">
+	<classes>
+	<class name="com.automation.NewTest"></class>
+	</classes>
+	 
+	</test> <!-- Test -->
+</suite> <!-- RegressionSuite -->
