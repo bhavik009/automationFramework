@@ -129,8 +129,11 @@ public class TestBase {
 		
 		report.flush();
 		
-		
-		
+		try {
+			EmailReport.sendExtentEmailReport(getClass().getSimpleName());
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 		
 		if(driver!=null)
 			driver.quit();
